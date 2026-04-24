@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-### Name : SHARVESH S 
-### Reg. No : 212224060246
+### Name : J SHYAM SUNDAR
+### Reg. No : 212224060250
 
 # Algorithm or Steps Involved:
 <ol>
